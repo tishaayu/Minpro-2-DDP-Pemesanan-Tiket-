@@ -1,4 +1,4 @@
-# Minpro-2-DDP-Pemesanan-Tiket-
+# Minpro-2-DDP-Pemesanan-Tiket
 
 ' Nama : Tisha Ayu Nabilah Lubis '
 
